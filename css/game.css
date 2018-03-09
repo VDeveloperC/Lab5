@@ -1,0 +1,10 @@
+.background    { background: rgb(58, 896, 241);
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.acid          { background: rgb(89, 700, 100); }
+.wall          { background: orange;   }
+.clouds        { background: white;    }
+.game {
+  position: relative;
+}
